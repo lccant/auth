@@ -1,0 +1,11 @@
+# IntelliJ project files
+.idea/
+.vscode/
+*.iml
+out
+gen
+
+node_modules/
+
+pack
+package-lock.json
